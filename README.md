@@ -1,5 +1,5 @@
-# express-from-scratch
-express js<br>
+# express-from-scratch -
+# steps for deployment -
 (i) Create folder ```Express```<br>
 (ii) Open Terminal and type ```npm init -y```<br>Now,
 ```package-lock.json``` file created on your folder.<br>
