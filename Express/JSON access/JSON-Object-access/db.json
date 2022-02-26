@@ -1,0 +1,84 @@
+ {
+        "userdata": [
+          {
+            "app_id": 1234,
+            "Store": [
+              {
+                "Store": "Store1"
+              },
+              {
+                "Store": "Store2"
+              },
+              {
+                "Store": "Store3"
+              },
+              {
+                "Store": "Store4"
+              },
+              {
+                "Store": "Store5"
+              }
+            ]
+          },
+          {
+            "app_id": 1236,
+            "Store": [
+              {
+                "Store": "Store1"
+              },
+              {
+                "Store": "Store2"
+              },
+              {
+                "Store": "Store3"
+              },
+              {
+                "Store": "Store4"
+              },
+              {
+                "Store": "Store5"
+              }
+            ]
+          },
+          {
+            "app_id": 1233,
+            "Store": [
+              {
+                "Store": "Store1"
+              },
+              {
+                "Store": "Store2"
+              },
+              {
+                "Store": "Store3"
+              },
+              {
+                "Store": "Store4"
+              },
+              {
+                "Store": "Store5"
+              }
+            ]
+          },
+          {
+            "app_id": 1234,
+            "Store": [
+              {
+                "Store": "Store1"
+              },
+              {
+                "Store": "Store2"
+              },
+              {
+                "Store": "Store3"
+              },
+              {
+                "Store": "Store4"
+              },
+              {
+                "Store": "Store5"
+              }
+            ]
+          }
+        ]
+      }
