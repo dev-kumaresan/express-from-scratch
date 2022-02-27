@@ -11,4 +11,5 @@
 (vi) Add a ```current IP Address``` and Database ```Username``` and ```Password``` <br>
 (vii) Click ```Create Database User``` and ```choose connection method``` <br>
 (viii)Now select ```connect your application``` <br>
-(ix) After that, choose ```node.js``` with version you have, and copy the connection string and to proceed.
+(ix) After that, choose ```node.js``` with version you have, and copy the connection string and to proceed.<br><br>
+* After executing the code, Reterive Databases, click ```clusters() -> collections```
