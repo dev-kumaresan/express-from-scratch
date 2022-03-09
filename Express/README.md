@@ -1,4 +1,3 @@
-# Express JS -- <br>
 # Authentication
 # Routing
 # Cookies
