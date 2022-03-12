@@ -4,9 +4,9 @@ Routing refers to determining how an application responds to a client request to
 # Cookies
 Cookies are simple, small files/data that are sent to client with a server request and stored on the client side. Every time the user loads the website back, this cookie is sent with the request. This helps us keep track of the user’s actions.
 <br>
-<center>```npm install cookie-parser```</center>
+```npm install cookie-parser```
 <br>
-<center>```const cookie = require('cookie-parser');```</center>
+```const cookie = require('cookie-parser');```
 # JSON access
 # Middleware
 # MongoDB
