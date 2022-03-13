@@ -9,6 +9,7 @@ Cookies are simple, small files/data that are sent to client with a server reque
 ```const cookie = require('cookie-parser');```
 # JSON access
 # Middleware
+Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. These functions are used to modify req and res objects for tasks like parsing request bodies, adding response headers, etc.
 # MongoDB
 # RESTFul APIs
 # Sessions
