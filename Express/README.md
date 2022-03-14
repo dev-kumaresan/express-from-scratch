@@ -14,3 +14,4 @@ Middleware functions are functions that have access to the request object (req),
 # RESTFul APIs
 # Sessions
 # Template Engines
+A template engine facilitates you to use static template files in your applications. At runtime, it replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. So this approach is preferred to design HTML pages easily.
