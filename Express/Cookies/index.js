@@ -5,4 +5,7 @@ app.use(cookie_parser());
 app.get('/',function(req,res){
 res.cookie('name','express').send('cookie set');
 });
-app.listen(3000); //end
+app.listen(3000,()=>{
+    console.log("server started at 3000");
+    
+}); //end
