@@ -10,3 +10,7 @@ To install EJS : <br>
 After installing,<br>
 // Set EJS engine - <br>
 Add ```app.set('view-engine','ejs');``` on code.
+# package to install
+* ```npm install express```<br>
+* ```npm install path```
+* ```npm install ejs```
