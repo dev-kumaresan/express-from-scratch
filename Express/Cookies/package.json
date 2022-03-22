@@ -2,5 +2,17 @@
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "express": "^4.17.3"
-  }
+  },
+  "name": "cookies",
+  "description": "* Open Terminal and type, ```npm install cookie-parser``` and hit ```Enter``` button.\r # Cookies<br>\r * Use ```const cookie = require('cookie-parser');``` on your code, for cookies requirment.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
