@@ -3,3 +3,5 @@ Express/Cookies/Cookies-set/package.json
 Express/Cookies/cookies-expiration/node_modules
 Express/Cookies/package.json
 Express/Sessions/package.json
+Express/Sessions/package-lock.json
+Express/Sessions/node_modules
